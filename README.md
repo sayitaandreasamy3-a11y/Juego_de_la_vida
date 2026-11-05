@@ -67,6 +67,8 @@ Reglas del Juego de la Vida
 2.-Una célula con dos o tres vecinos sobrevive.
 3.-Una célula con más de tres vecinos muere.
 4.-Una célula muerta con exactamente tres vecinos revive
+Repositorio
+https://github.com/sayitaandreasamy3-a11y/Juego_de_la_vida.git
 
 
 # CONCLUSIONES
@@ -143,7 +145,7 @@ El archivo `requirements.txt` contiene las dependencias de la versión web.
 ## Repositorio y streamlit
 
 Repositorio de GitHub:
-
+https://github.com/sayitaandreasamy3-a11y/Juego_de_la_vida.git
 
 
 **Aplicación publicada en Streamlit:**
